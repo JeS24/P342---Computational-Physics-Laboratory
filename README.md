@@ -12,5 +12,5 @@ Own code, related to coursework.
 7. Root Finding Algorithms
 8. Boundary Value Problems
 
-## NOTES:
+## NOTE:
 You may copy the code here, provided you follow the guidelines in the associated license (GNU Affero GPL v3). Error-corrections, improvements and suggestions are welcome.
