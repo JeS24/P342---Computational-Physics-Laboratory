@@ -1,6 +1,8 @@
 # P342 - Computational Physics Laboratory
 Own code, related to coursework.
 
+View in Binder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeS24/P342---Computational-Physics-Laboratory/master)
+
 ## Following topics have been covered here:
 
 1. Matrix Algebra
